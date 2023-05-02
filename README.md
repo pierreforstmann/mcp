@@ -10,7 +10,7 @@
 
 <a href=https://cobolworx.com/pages/cobforgcc.html>COBOL for GCC</a>
 <br>
-<a href=https://gitlab.cobolworx.com/COBOLworx/gcc-cobol>COBOL for FCC source code</a>
+<a href=https://gitlab.cobolworx.com/COBOLworx/gcc-cobol>COBOL for GCC source code</a>
 
 
 
